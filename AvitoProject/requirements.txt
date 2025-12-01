@@ -1,0 +1,7 @@
+apache-airflow==2.6.3
+sqlalchemy==1.4.49
+playwright==1.35.0
+pandas==2.2.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
